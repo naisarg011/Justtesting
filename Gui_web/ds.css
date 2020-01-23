@@ -1,0 +1,18 @@
+span{
+    font-size: 3.5em;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    border: 1px solid #ffff;
+    margin-left: 310px;
+}
+.dc{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.6em;
+    font-weight: 400;
+    color: aliceblue;
+    text-align: justify;
+}
+body{
+    background-image: url(n1.jpg);
+    background-attachment: fixed;
+}

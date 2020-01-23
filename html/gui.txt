@@ -1,0 +1,5 @@
+framborder:- the atributies specifies wether a three dimensonal border should be displaed in frams. it takws value 1 for y and 0 for n.
+mardinwidth: it allows you to specifies the width of space between the laft and right of the frams border an the farm continue.value i  pixer
+marginhight: space between top and bottom
+noresize: By default you and resize any fram by clicking and dragging on the border of farms . the no resize prevint being able to resize the fram.value is" noresize".
+scrolling:This atributes contrl the apprience of the scroolbar that appier on the fram it's values are either y ,n or auto.

@@ -1,0 +1,47 @@
+<td style="font-family:Calibri ; color:goldenrod ; font-size:80px; "> <B><U><div onmouseover="mOver(this)" onmouseout="mOut(this)">KNOWLEDGE SCHOOL </div></U> </B> </td>
+<tr style="font-family: Calibri ; color:white ; font-size:30px;" >
+	<td align="center"><u><a href="#">THE LOVE WITH TECHNOLOGY </a></u></td>
+	</tr>
+    <td rowspan="2"  align="right"   style="font-family:Calibri; color:rgb(229, 255, 0) ; font-size:15px;"> <image src="ks.jpeg" height="100" width="100"> <br><form>
+	     Visite us on : <a href="https://www.instagram.com/_knowledge_school_/?igshid=9ojabms68geb" >INSTAGRAM</a>
+	     <a href="https://www.facebook.com/thelawofuniverse/" > FACEBOOK</a></td>
+ </tr> 
+ mn li{
+	display: inline-block;
+	margin: 10px 5px;
+	
+}
+.mn li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 10px;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	transition: 0.5;
+	text-transform: uppercase;
+}
+.mn li a:hover{
+	background: #fff;
+	transition: .4s;
+	color: #000;
+	transform: scale(2);
+}
+transform: translate(-50%,-50%);
+    font-family:Calibri ; 
+    margin-left: 835px;
+    
+    color:goldenrod ; 
+	
+    
+<table width="100%" height="100%"  rules="none" vspace="0" hspace="0">
+	<tr><form>
+	<td colspan="2" align="center" bgcolor="black" style="font-family: Calibri ; color:white ; font-size:20px;">
+	suscribe us: <input type="text name="email" value="enter your email">  <input type="submit" name="submit" value="Suscribe"></form></td> 
+	</tr>
+	<tr>
+	<td colspan="2" align="right"  bgcolor="black" style="font-family: Calibri ; color:white ; font-size:13px;"> by@naisarg_rana-2019</td>
+	</table>
+</body>
+</html>    
