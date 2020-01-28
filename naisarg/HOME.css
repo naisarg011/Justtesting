@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background-image:linear-gradient(rgba(185, 85, 85, 0.418),rgba(0, 0, 0, 0.603)),url(id.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.nav{
+	background: rgba(0, 0, 0, 0.5);
+	height: 80px;
+}
+.logo{
+	height: 60px;
+	margin: 10px 50px;
+}
+.mn{
+	float: right;
+	list-style: none;
+	margin: 20px;
+}
+.mn li{
+	display: inline-block;
+	margin: 10px 20px;
+	transition: 0.5;
+	font-size: 20px;	
+}
+.mn li a{
+	display: block;
+	position: relative;
+	border-bottom-right-radius:15px ;	
+	border-top-left-radius:15px ;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+	padding: 5px 10px;
+	color: #fff;
+	text-transform: uppercase;
+	transition: 0.5s;
+	border: 1px solid #fff;
+	text-decoration: none;
+}
+.mn:hover li {
+	transform: scale(1);
+	opacity: 1;	
+}
+.mn li a:hover{
+	
+	transform: scale(1.2);
+	opacity: 1;
+	background: #fff;
+	transition: .4s;
+	color: #000;
+}
+.welcome {
+	margin-top: 200px;
+	text-align: center;
+	font-family: sans-serif;
+	color: #fff;
+}
+.welcome h1{
+		font-size: 42px;
+		margin: 25px;
+}
+.bt{
+		font-size: 18px;
+		letter-spacing: 2px;
+		margin: 5px;
+		padding: 7px 10px;
+		text-decoration: none;
+		border:  1px solid #fff;
+}
+.b1{
+	background: #fff;
+	color: #000;
+}
+.b2{
+	color: #fff;
+}
+.b2:hover{
+	background: #fff;
+	color: #000;
+	transition: .4s;	
+}
+	
+		
+	 
+	
